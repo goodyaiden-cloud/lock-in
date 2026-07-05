@@ -1,0 +1,9 @@
+{
+"name":"LOCK IN",
+"short_name":"LOCK IN",
+"display":"standalone",
+"start_url":"./",
+"background_color":"#111111",
+"theme_color":"#00ff88",
+"icons":[]
+}
